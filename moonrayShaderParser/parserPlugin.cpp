@@ -411,7 +411,7 @@ MoonrayParserPlugin::ParseShaderNode(
                                     discoveryResult.identifier,
                                     discoveryResult.version,
                                     discoveryResult.name,
-                                    discoveryResult.function,
+                                    discoveryResult.family,
                                     getNodeContext(definition),
                                     _tokens->sourceType,
                                     discoveryResult.uri,
